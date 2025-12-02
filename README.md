@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=1000&color=9D46FF&center=true&vCenter=true&width=435&lines=Vansh+Dhall;Data+Scientist" alt="Typing SVG" />
   </a>
 
-<p>
+  <p>
     <a href="https://vansh-dhall-portfolio.lovable.app/" target="_blank">
       <img src="https://img.shields.io/badge/🚀_View_My-Portfolio-8A2BE2?style=for-the-badge&logo=framer&logoColor=white&labelColor=18181B" height="38" alt="Portfolio" />
     </a>
@@ -28,7 +28,8 @@
       <img src="https://skillicons.dev/icons?i=gmail" height="28" />
     </a>
   </p>
-  </div>
+      </div>
+      
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VanshD-7657&label=Profile%20Views&color=blue&style=flat" alt="view count"/>
 </p>
@@ -63,22 +64,21 @@
 
 <div align="center">
 
-  <h3 style="font-family: monospace">🏆 The Discipline Protocol</h3>
-
-  <img src="https://img.shields.io/badge/🔥_Longest_Learning_Streak-130%2B_Days-8A2BE2?style=for-the-badge&logo=fire&logoColor=white&labelColor=18181B" height="35" alt="Max Streak" />
+  <h2 style="font-family: monospace">🏆 The Discipline Protocol</h2>
   
-  <br/><br/>
-
-  <img src="https://geps.dev/progress/35?dangerColor=808080&warningColor=8A2BE2&successColor=00F2EA" alt="Progress Bar" width="300" height="35" />
+  <br/>
+  <div align="center">
+  <img src="./progress_bar.svg" alt="35% Progress" width="80%">
+  </div>
   
-  
+  <br/>
   <p align="center" style="font-family: monospace; color: #9D46FF;">
     <code>🎯 Goal: Senior Data Scientist</code> &nbsp;•&nbsp; 
     <code>⏳ Started: June 2025</code> &nbsp;•&nbsp; 
     <code>⚡ Status: Upskilling Daily</code>
   </p>
+  <h2 style="font-family: monospace">🏆 GitHub Trophies</h2>
+  <p> <img src="https://github-profile-trophy.vercel.app/?username=VanshD-7657&theme=radical&margin-w=10&margin-h=10" /> </p>
 
 </div>
 
-### 🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=VanshD-7657&theme=radical&margin-w=10&margin-h=10" /> </p>
