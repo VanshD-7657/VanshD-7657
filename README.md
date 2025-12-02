@@ -69,7 +69,7 @@
   
   <br/><br/>
 
-  <img src="https://geps.dev/progress/35?dangerColor=808080&warningColor=8A2BE2&successColor=00F2EA" alt="Progress Bar" />
+  <img src="https://geps.dev/progress/35?dangerColor=808080&warningColor=8A2BE2&successColor=00F2EA" alt="Progress Bar" width="300" height="35" />
   
   
   <p align="center" style="font-family: monospace; color: #9D46FF;">
