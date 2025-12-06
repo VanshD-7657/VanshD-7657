@@ -52,7 +52,7 @@
 | **Languages** | Python, SQL |
 | **Technologies** | Machine Learning, Deep Learning, Natural Language Processing (NLP), Web Scraping |
 | **Frameworks & Libraries** | Scikit-learn, TensorFlow, Flask, MongoDB, MySQL |
-| **Developer Tools** | Git, GitHub, Microsoft Excel |
+| **Developer Tools** | Git, GitHub, Microsoft Excel, Tableau |
 
 ---
 ### 🚀 Featured Projects
