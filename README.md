@@ -9,7 +9,7 @@
 
   <p>
     <a href="https://vansh-dhall-portfolio.lovable.app/" target="_blank">
-      <img src="https://img.shields.io/badge/🚀_View_My-Portfolio-8A2BE2?style=for-the-badge&logo=framer&logoColor=white&labelColor=18181B" height="38" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/View_My-Portfolio-8A2BE2?style=for-the-badge&logo=framer&logoColor=white&labelColor=18181B" height="38" alt="Portfolio" />
     </a>
     &nbsp;&nbsp;
     <a href="https://drive.google.com/file/d/1aYD_MYjZ3eFPL_BSmByFgmZKfz0rXv2y/view?usp=sharing" target="_blank">
@@ -72,7 +72,7 @@
   
   <br/>
   <div align="center">
-  <img src="./progress_bar.svg" alt="35% Progress" width="80%">
+  <img src="./progress_bar.svg" alt="37% Progress" width="80%">
   </div>
   
   <br/>
