@@ -55,7 +55,7 @@
 |:---:|:---|
 | **Languages** | Python, SQL |
 | **Technologies** | Machine Learning, Deep Learning, Natural Language Processing (NLP), Web Scraping |
-| **Frameworks & Libraries** | Scikit-learn, TensorFlow, Flask, MongoDB, MySQL |
+| **Frameworks & Libraries** | Scikit-learn, TensorFlow, Flask, MongoDB, MySQL, ApacheSpark |
 | **Developer Tools** | Git, GitHub, Microsoft Excel, Tableau |
 
 ---
@@ -72,7 +72,7 @@
   
   <br/>
   <div align="center">
-  <img src="./progress_bar.svg" alt="37% Progress" width="80%">
+  <img src="./progress_bar.svg" alt="39% Progress" width="80%">
   </div>
   
   <br/>
