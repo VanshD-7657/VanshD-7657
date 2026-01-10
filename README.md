@@ -59,12 +59,12 @@
 | **Developer Tools** | Git, GitHub, Microsoft Excel, Tableau |
 
 ---
-### 🚀 Featured Projects
+###  Featured Projects
 
 | **Project** | **Problem Solved** | **Tech Stack** |
 |:---|:---|:---|
 | **🔒 [Network Security System](https://github.com/VanshD-7657/ML-OR-DL-Endt-to-End-Projects/tree/main/Network%20Security)** | Built an automated system to detect malicious URLs with **95% accuracy**, reducing manual review time. | `Python` `Scikit-learn` `AWS` |
-| **📊 [Student Analytics](https://github.com/VanshD-7657/ML-OR-DL-Endt-to-End-Projects/tree/main/Student%20Performance%20Predictor)** | Developed a regression pipeline to predict academic performance, deployed as a **real-time REST API**. | `CatBoost` `Flask` `Docker` |
+| **📊 [Student Performance Analytics](https://github.com/VanshD-7657/ML-OR-DL-Endt-to-End-Projects/tree/main/Student%20Performance%20Predictor)** | Developed a regression pipeline to predict academic performance, deployed as a **real-time REST API**. | `CatBoost` `Flask` `Docker` |
 
 <div align="center">
 
