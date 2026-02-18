@@ -81,8 +81,11 @@
     <code>⏳ Started: June 2025</code> &nbsp;•&nbsp; 
     <code>⚡ Status: Upskilling Daily</code>
   </p>
-  <h2 style="font-family: monospace">🏆 GitHub Trophies</h2>
-  <p> <img src="https://github-profile-trophy.vercel.app/?username=VanshD-7657&theme=radical&margin-w=10&margin-h=10" /> </p>
+  <h2 style="font-family: monospace">🏆 GitHub Stats</h2>
+  <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VanshD-7657&theme=dark" />
+  </p>
+
 
 </div>
 
