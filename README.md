@@ -41,7 +41,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Education:** Pursuing B.Tech in Computer Science (Data Science & AI Track)
-- 🔭 **I’m currently working on:** End-to-End Machine Learning Pipelines & Deployment
+- 🔭 **I’m currently working on:** Building End to End Generative AI Systems
 - 🌱 **I’m currently learning:** Generative AI, LLMs, and System Design
 - 💡 **Motto:** "Learning Every Day → Building Every Week → Improving Every Month"
 - ⚡ **Fun fact:** I love bridging the gap between raw data and actionable business insights.
@@ -54,8 +54,8 @@
 | **Category** | **Skills** |
 |:---:|:---|
 | **Languages** | Python, SQL |
-| **Technologies** | Machine Learning, Deep Learning, Natural Language Processing (NLP), Web Scraping |
-| **Frameworks & Libraries** | Scikit-learn, TensorFlow, Flask, MongoDB, MySQL, ApacheSpark |
+| **Technologies** | Machine Learning, Deep Learning, NLP, Web Scraping, Generative AI |
+| **Frameworks & Libraries** | Scikit-learn, TensorFlow, Flask, MongoDB, MySQL, ApacheSpark, Langchain, Langgraph |
 | **Developer Tools** | Git, GitHub, Microsoft Excel, Tableau |
 
 ---
@@ -63,8 +63,10 @@
 
 | **Project** | **Problem Solved** | **Tech Stack** |
 |:---|:---|:---|
+| **[Personal Assistant Chatbot](https://vansh-dhall-pa.streamlit.app/)** | Engineered an intelligent Personal Assistant Chatbot using Generative AI with LangChain, enabling context-aware or real-time user interactions and deployed the app on Streamlit | `Langchain`, `RAG`, `Python`, `Streamlit` |
 | **🔒 [Network Security System](https://github.com/VanshD-7657/ML-OR-DL-Endt-to-End-Projects/tree/main/Network%20Security)** | Built an automated system to detect malicious URLs with **95% accuracy**, reducing manual review time. | `Python` `Scikit-learn` `AWS` |
 | **📊 [Student Performance Analytics](https://github.com/VanshD-7657/ML-OR-DL-Endt-to-End-Projects/tree/main/Student%20Performance%20Predictor)** | Developed a regression pipeline to predict academic performance, deployed as a **real-time REST API**. | `CatBoost` `Flask` `Docker` |
+
 
 <div align="center">
 
