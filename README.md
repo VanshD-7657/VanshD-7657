@@ -1,5 +1,4 @@
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/ea6a9afa-c743-4ca4-be67-70af57168d40" /><div align="center">
-  
+
   <img src="https://images.weserv.nl/?url=github.com/VanshD-7657.png&h=180&w=180&fit=cover&mask=circle&maxage=7d" width="180" height="180" alt="Vansh Dhall" />
 
   <br>
