@@ -1,4 +1,4 @@
-<div align="center">
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/ea6a9afa-c743-4ca4-be67-70af57168d40" /><div align="center">
   
   <img src="https://images.weserv.nl/?url=github.com/VanshD-7657.png&h=180&w=180&fit=cover&mask=circle&maxage=7d" width="180" height="180" alt="Vansh Dhall" />
 
@@ -63,7 +63,8 @@
 
 | **Project** | **Problem Solved** | **Tech Stack** |
 |:---|:---|:---|
-| **[Personal Assistant Chatbot](https://vansh-dhall-pa.streamlit.app/)** | Engineered an intelligent Personal Assistant Chatbot using Generative AI with LangChain, enabling context-aware or real-time user interactions and deployed the app on Streamlit | `Langchain`, `RAG`, `Python`, `Streamlit` |
+| **[✈️ AI Travel Planning System](https://vd-ai-travel-planning-system.streamlit.app)** | Built a production-ready multi-agent AI Travel Planning System leveraging LangGraph, Groq LLM, and PostgreSQL, providing personalized itinerary generation, flight search, real-time travel intelligence, persistent memory, and PDF travel plan generation. | `LangChain`, `LangGraph`, `Groq LLM`, `PostgreSQL`, `Neon`, `Streamlit` |
+| **[🤖Personal Assistant Chatbot](https://vansh-dhall-pa.streamlit.app/)** | Engineered an intelligent Personal Assistant Chatbot using Generative AI with LangChain, enabling context-aware or real-time user interactions and deployed the app on Streamlit | `Langchain`, `RAG`, `Python`, `Streamlit` |
 | **🔒 [Network Security System](https://github.com/VanshD-7657/ML-OR-DL-Endt-to-End-Projects/tree/main/Network%20Security)** | Built an automated system to detect malicious URLs with **95% accuracy**, reducing manual review time. | `Python` `Scikit-learn` `AWS` |
 | **📊 [Student Performance Analytics](https://github.com/VanshD-7657/ML-OR-DL-Endt-to-End-Projects/tree/main/Student%20Performance%20Predictor)** | Developed a regression pipeline to predict academic performance, deployed as a **real-time REST API**. | `CatBoost` `Flask` `Docker` |
 
