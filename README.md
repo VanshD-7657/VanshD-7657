@@ -54,7 +54,7 @@
 |:---:|:---|
 | **Languages** | Python, SQL |
 | **Technologies** | Machine Learning, Deep Learning, NLP, Web Scraping, Generative AI |
-| **Frameworks & Libraries** | Scikit-learn, TensorFlow, Flask, MongoDB, MySQL, ApacheSpark, Langchain, Langgraph |
+| **Frameworks & Libraries** | Scikit-learn, TensorFlow, Flask, MongoDB, MySQL, PostgreSQL, PySpark, LangChain, LangGraph, LangSmith |
 | **Developer Tools** | Git, GitHub, Microsoft Excel, Tableau |
 
 ---
