@@ -11,8 +11,12 @@
       <img src="https://img.shields.io/badge/View_My-Portfolio-8A2BE2?style=for-the-badge&logo=framer&logoColor=white&labelColor=18181B" height="38" alt="Portfolio" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://drive.google.com/file/d/19BSjBMpcMCTZW5eaeybTcqczCLd1ug7-/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/1206sInonUf7qz-MvOQVZcZBzCaggA4eB/view?usp=drive_link" target="_blank">
       <img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=8A2BE2" height="38" alt="Resume" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.youtube.com/@DhallsaabPb15" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-8A2BE2?style=for-the-badge&logo=youtube&logoColor=white&labelColor=8A2BE2" height="38" alt="YouTube Channel" />
     </a>
   </p>
 
